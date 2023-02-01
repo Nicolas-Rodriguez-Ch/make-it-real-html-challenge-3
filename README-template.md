@@ -1,4 +1,4 @@
-# Make It Real - NAME OF THE PROJECT
+# Make It Real - HTML 3
 
 This is a solution to the HTML 3 QR code component project of the Make It Real course.
 
