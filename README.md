@@ -16,4 +16,4 @@ Usar los media queries de CSS y el tamaño máximo de pantalla
 
 Autores
 
-Nicolás Rodríguez Michael Saenz
+Nicolás Rodríguez Oscar Nuñez
