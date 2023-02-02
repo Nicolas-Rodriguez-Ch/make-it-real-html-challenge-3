@@ -42,3 +42,18 @@ img {
     padding-left: 25px;
     padding-right: 25px;
 }
+
+@media (min-width: 500px) and (max-width: 1500px) {
+    .container {
+        margin-top: 250px;
+        width: 25%;
+        height: 575px;
+    }
+    .title {
+        margin-top: 25px;
+    }
+    .text {
+        font-size: large;
+        margin-top: 25px;
+    }
+}
